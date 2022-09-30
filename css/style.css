@@ -244,6 +244,10 @@ a:focus {
     color: var(--primary)
 }
 
+.text-secondary {
+    color: rgb(170, 170, 170)
+}
+
 .navbar {
     position: absolute;
     z-index: 10;
@@ -591,6 +595,10 @@ a.brand:focus {
 
 .resume-study {
     margin-bottom: 1rem
+}
+
+.resume-study2 {
+    margin-bottom: 1rem color: var(--primary-darker)
 }
 
 .resume-date {
