@@ -594,11 +594,7 @@ a.brand:focus {
 }
 
 .resume-study {
-    margin-bottom: 1rem
-}
-
-.resume-study2 {
-    margin-bottom: 1rem color: var(--primary-darker)
+    margin-bottom: 0.5rem
 }
 
 .resume-date {
