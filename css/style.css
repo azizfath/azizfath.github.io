@@ -556,6 +556,15 @@ a.brand:focus {
     margin-bottom: 1rem
 }
 
+.resume-title {
+    position: relative;
+    background: var(--primary-darker);
+    padding: 1rem;
+    color: #000;
+    text-align: center;
+    margin: 0
+}
+
 .resume-row {
     position: relative
 }
