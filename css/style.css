@@ -556,15 +556,6 @@ a.brand:focus {
     margin-bottom: 1rem
 }
 
-.resume-title {
-    position: relative;
-    background: var(--primary-darker);
-    padding: 1rem;
-    color: #000;
-    text-align: center;
-    margin: 0
-}
-
 .resume-row {
     position: relative
 }
@@ -615,6 +606,11 @@ a.brand:focus {
 
 .resume-text.last {
     margin-bottom: 0
+}
+
+.resume-text-desc {
+    opacity: .6;
+    padding-left: 0.8rem;
 }
 
 .sertif {
